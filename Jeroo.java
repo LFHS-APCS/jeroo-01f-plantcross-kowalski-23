@@ -7,10 +7,10 @@ public class Jeroo extends JerooBase {
     
     public void plantCross() 
     {
-        this.side();
-        this.side();
-        this.side();
-        this.side();
+     this.side();
+     this.side();
+     this.side();
+     this.side();
     }
     // Put any helpermethods here
     
