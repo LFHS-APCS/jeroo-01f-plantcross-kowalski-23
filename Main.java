@@ -17,7 +17,7 @@ public class Main implements Directions {
      * IMPORTANT: Do NOT change this code.
      */
     public static void runJerooCode() {
-       Jeroo ross = new Jeroo(6, 3, EAST, 100);
+       Jeroo kim = new Jeroo(3, 6, EAST, 100);
        kim.plantCross();
     }
 
